@@ -1,2 +1,0 @@
-VESC V4.12 >> VESC V4.12.pdf
-MKSESC MINI V4.20 >> MKSESC MINI V4.20schematic.pdf
