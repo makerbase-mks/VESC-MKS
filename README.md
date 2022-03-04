@@ -9,7 +9,11 @@ This project is an open source project based on Benjamin VESC. We have developed
 * Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
 
 ## Firmware
+[Compatible Benjamin VESC.](https://vesc-project.com/)
 
+## Hardware
+* [VESC V4.12](https://github.com/makerbase-mks/VESC-MKS/tree/main/04_Hardware/V4.12)
+* [MKSESC MINI V4.20](https://github.com/makerbase-mks/VESC-MKS/tree/main/04_Hardware/V4.20)
 
 ## How to buy
 
