@@ -19,5 +19,6 @@ This project is an open source project based on Benjamin VESC. We have developed
 
 ## Grateful
 [Benjamin VESC.](https://vesc-project.com/)
+[nRF24-Esk8-Remote](https://github.com/SolidGeek/nRF24-Esk8-Remote)
 
 ![mks_link](https://user-images.githubusercontent.com/12979070/149611790-87085a7e-15a2-4d93-b59e-43f91120716b.png)
