@@ -4,7 +4,7 @@ It is constantly updating.
 ## Illustrate
 This project is an open source project based on Benjamin VESC. We have developed a new version and simple teaching on the basis of VESC. The purpose is to let more people understand and use VESC easily.
 
-MKS ESC_RC based on nRF24-Esk8-Remote.
+MKS ESC_RC based on [nRF24-Esk8-Remote.](https://github.com/SolidGeek/nRF24-Esk8-Remote)
 
 ## Related tutorials and Notice
 * Video Tutorials.[click here](https://www.youtube.com/playlist?list=PLc2RScfrSFECJst8vKtBXp192P-YP1ry5)
