@@ -7,6 +7,8 @@ This project is an open source project based on Benjamin VESC. We have developed
 MKS ESC_RC based on [nRF24-Esk8-Remote.](https://github.com/SolidGeek/nRF24-Esk8-Remote)
 
 ## Related tutorials and Notice
+
+* Makerbase VESC75 Series Upgrade Instructions.
 * Video Tutorials.[click here](https://www.youtube.com/playlist?list=PLc2RScfrSFECJst8vKtBXp192P-YP1ry5)
 * Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
 
